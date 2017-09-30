@@ -13,4 +13,6 @@ export PATH=$SCALA_HOME/bin:$PATH
 #
 # # export SPARK_HOME=/home/oleg/spark-2.1.0-bin-hadoop2.7
 # # export PATH=$SPARK_HOME/bin:$PATH
-#
+
+
+export LD_LIBRARY_PATH=/opt/anaconda3/lib
